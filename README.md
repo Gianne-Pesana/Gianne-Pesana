@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+I am Gianne Carl S. Pesaña, I am currently studying at Ateneo de Davao University and taking BS Computer Science. I love programming and solving problems and with this, I am aiming to be a software developer in the future.
+
+
 
 <!--
 **Gianne-Pesana/Gianne-Pesana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
