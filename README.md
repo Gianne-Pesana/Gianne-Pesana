@@ -1,5 +1,5 @@
-## Hi there 👋 
-I am Gianne Carl S. Pesaña, I am currently studying at Ateneo de Davao University and taking BS Computer Science. I love programming and solving problems and with this, I am aiming to be a software developer in the future.
+#Hello Aliens! 👋🏼
+##It's your boy Gianne here doing some stuff
 
 
 
