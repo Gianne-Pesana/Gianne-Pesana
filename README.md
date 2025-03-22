@@ -1,6 +1,7 @@
 # Hello Aliens! 👋🏼
-## It's your boy ***Gianne*** here doing some stuff and ~~learning~~ programming.
+It's your boy ***Gianne*** here doing some stuff and ~~learning~~ programming.
 
+⚡ Fun fact: I am a human
 
 
 <!--
