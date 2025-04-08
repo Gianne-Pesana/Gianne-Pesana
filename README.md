@@ -1,5 +1,5 @@
 # Hello Aliens! 👋🏼
-It's your boy ***Gianne*** here doing some stuff and ~~learning~~ programming.
+There exist a creature who has a name ***Gianne*** here doing some stuff and ~~learning~~ programming.
 
 ⚡ Fun fact: I am a human
 
