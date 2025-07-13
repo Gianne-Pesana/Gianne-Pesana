@@ -1,14 +1,15 @@
-# yo, I’m Gianne 🧃
+# hey, I’m Gianne 🧠⚡
 
-First-year CS student.  
-Code enthusiast.  
-Front-end avoider (for everyone’s safety).  
+🐛 CS student @ Ateneo de Davao  
+🧪 I code things for fun (and then debug for character development)  
+💻 Java, backend logic, and hardware-ish stuff  
+🚫 Frontend? scary. buttons? suspicious.
 
-This GitHub’s my digital playground — expect random projects, weird ideas, and the occasional "aha!" moment.  
-I’m here to **learn**, **experiment**, and most importantly, **have fun**. (If it breaks, that’s part of the process.)
+this GitHub is my lab — where I try stuff, break stuff, and occasionally surprise myself when it runs on the first try (rare, but magical ✨)
 
-💬 Java is my current language of choice.  
-🛠️ I like tech that makes sense and stuff that doesn’t — I’ll probably build both.  
-⚠️ No fancy portfolio here. Just honest, hands-on chaos.
+you’ll find:
+- 💡 curious ideas turned into working-ish projects
+- 🛠️ code I’m proud of (and some I hide out of fear)
+- 🌀 a mix of learning, chaos, and a weird sense of fun
 
-> If you’re reading this, congrats. You’ve scrolled too far into my curiosity.
+> built on caffeine, curiosity, and ctrl+z
