@@ -1,6 +1,6 @@
 # hey, I’m Gianne 🧠⚡
 
-🐛 CS student @ Ateneo de Davao  
+🐛 CS student @ Ateneo de Davao University
 🧪 I code things for fun (and then debug for character development)  
 💻 Java, backend logic, and hardware-ish stuff  
 🚫 Frontend? scary. buttons? suspicious.
