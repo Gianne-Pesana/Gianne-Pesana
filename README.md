@@ -3,7 +3,7 @@
 🐛 CS student @ Ateneo de Davao University    
 🧪 I code things for fun (and then debug for character development)  
 💻 Java, backend logic, and hardware-ish stuff  
-🚫 Frontend? scary. buttons? suspicious.
+🚫 Frontend? I'd rather wrestle a null pointer 😅
 
 this GitHub is my lab — where I try stuff, break stuff, and occasionally surprise myself when it runs on the first try (rare, but magical ✨)
 
